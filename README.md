@@ -35,7 +35,8 @@ the instructions are not complete yet, please allow me to update this README.md 
 
 
 
-
+# Currently working on:
+- Retain context of the previous conversation
 
 # Disclaimer:
 This project is not affiliated with Google or any other company. The use of the Google Gemini API is subject to its own terms and conditions. Please refer to the official documentation for more information.
