@@ -11,3 +11,12 @@ currently working on:
 - GUI? (unlikely, because I am bad at GUI)
 
 This README.md is temporary boring, please allow me to update this README.md later when I have time to do so
+
+# AiScream
+Ai-Scream is an Artificial Intelligence (AI) chatbot that allows users to chat with any character they wish with the help of Google Gemini API.
+
+# Features:
+- Chat with any character you want
+- Free of charge with Google Gemini API
+- Easy to use and set up
+
