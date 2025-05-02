@@ -1,1 +1,1 @@
-Currently a AI Chatbot to chat with any characters you wish to :o
+Currently an AI Chatbot to chat with any characters you wish to :o
