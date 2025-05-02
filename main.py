@@ -12,19 +12,20 @@ try:
 
     client = genai.Client(api_key=API_KEY)
 
-    username = str(input("Username: ")).title()
+    username = str(input("Name: ")).title()
 
     character = str(input("Who do you want to chat with?: ")).title()
+
     print(f"Hello {username}, welcome to {character} chat!")
-    print("Type 'stop' to end the chat.")
+    print("\n")
+    print("Type 'stop()' to end the chat.")
     print("AI response may not be accurate, please do not share any private information.")
-
-
+    print("\n")
 
     while True:
         content = str(input(f"{username}: "))
 
-        if content.lower() == "stop":
+        if content.lower() == "stop()":
             sys.exit(f"Goodbye {username}, have a great day!")
 
         elif content == "":
