@@ -1,6 +1,3 @@
-Don't ask what is this, I also don't know lol
+I think this is a cute chat with Ruby-chan
 
-Following the random AI Hype Train
-
-
-Fine, I think it's a maths AI chat bot for now. I think so
+please be kind when trying it out :D
