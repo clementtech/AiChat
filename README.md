@@ -20,3 +20,27 @@ Ai-Scream is an Artificial Intelligence (AI) chatbot that allows users to chat w
 - Free of charge with Google Gemini API
 - Easy to use and set up
 
+# Sneak Peak:
+...
+
+# Prerequisites:
+- [Python](https://www.python.org/downloads/)
+- [Google Gemini API](https://ai.google.dev/gemini-api/docs)
+
+# How to use:
+1. Download the project onto your computer.
+    - You can download the project by using the [git](https://git-scm.com/downloads) command:
+    ```
+    git clone https://github.com/clementtech/AiScream.git
+    ```
+
+2. Download the required dependencies.
+    - The dependencies can be installed using the following command:
+    ```
+    pip install -r requirements.txt
+    ```
+3. Done setup!
+    - You can run the program by entering the following command:
+    ```
+    python main.py
+    ```
