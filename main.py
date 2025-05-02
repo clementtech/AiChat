@@ -1,11 +1,16 @@
-import os
-from dotenv import load_dotenv
+try:
+    import os
+    from dotenv import load_dotenv
+    from google import genai
+    import sys
 
+except ModuleNotFoundError:
+    sys.exit("...")
+    
 load_dotenv()
 API_KEY = os.getenv("API_KEY")
 
-from google import genai
-import sys
+
 
 client = genai.Client(api_key=API_KEY)
 
