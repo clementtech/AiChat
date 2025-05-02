@@ -8,4 +8,6 @@ however, the funny part is that even with loop, the chatbot will not remember th
 currently working on:
 - User experience
 - Chatbot memory
-- GUI? (unlikely, because I am dumb fak)
+- GUI? (unlikely, because I am bad at GUI)
+
+This README.md is temporary boring, please allow me to update this README.md later when I have time to do so
