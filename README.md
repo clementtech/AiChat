@@ -1,3 +1,1 @@
-I think this is a cute chat with Ruby-chan
-
-please be kind when trying it out :D
+Chat with anyone you wish to :O
