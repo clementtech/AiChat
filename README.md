@@ -44,3 +44,16 @@ Ai-Scream is an Artificial Intelligence (AI) chatbot that allows users to chat w
     ```
     python main.py
     ```
+
+the instructions are not complete yet, please allow me to update this README.md later when I have time to do so
+
+
+
+
+
+# Disclaimer:
+This project is not affiliated with Google or any other company. The use of the Google Gemini API is subject to its own terms and conditions. Please refer to the official documentation for more information.
+
+AI results may vary and are not guaranteed to be accurate or reliable. Use at your own risk.
+
+This project is for educational and entertainment purposes only. The developers are not responsible for any misuse or consequences resulting from the use of this project.
