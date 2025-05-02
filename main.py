@@ -9,9 +9,12 @@ import sys
 
 client = genai.Client(api_key=API_KEY)
 
-username = str(input("Enter your name: ")).title()
+username = str(input("Username: ")).title()
+
 character = str(input("Who do you want to chat with?: ")).title()
 print(f"Hello {username}, welcome to {character} chat!")
+print("Type 'stop' to end the chat.")
+print("AI response may not be accurate, please do not share any private information.")
 
 
 
