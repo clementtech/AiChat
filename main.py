@@ -1,14 +1,14 @@
-
 import os
-from dotenv import load_dotenv
-from google import genai
 import sys
 
-    
+try:
+    from dotenv import load_dotenv
+    from google import genai
+except ValueError:
+    sys.exit("Please install dependencies => pip install -r requirements.txt")
+
 load_dotenv()
 API_KEY = os.getenv("API_KEY")
-
-
 
 client = genai.Client(api_key=API_KEY)
 
