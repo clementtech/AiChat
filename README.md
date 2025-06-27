@@ -17,7 +17,7 @@ AiChat is an Artificial Intelligence (AI) chatbot that allows users to chat with
 1. Download the project onto your computer.
     - You can download the project by using the [git](https://git-scm.com/downloads) command:
     ```
-    git clone https://github.com/clementtech/AiScream.git
+    git clone https://github.com/clementtech/AiChat.git
     ```
 
 2. Download the required dependencies.
