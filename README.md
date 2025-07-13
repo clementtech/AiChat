@@ -1,4 +1,4 @@
-# AiChat 爱谈
+# AiChat
 AiChat is an Artificial Intelligence (AI) chatbot that allows users to chat with any character they wish with the help of Google Gemini API.
 
 # Features:
