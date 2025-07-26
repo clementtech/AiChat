@@ -4,7 +4,7 @@ import sys
 try:
     from dotenv import load_dotenv
     from google import genai
-except ValueError:
+except (ValueError, ModuleNotFoundError):
     sys.exit("Please install dependencies => pip install -r requirements.txt")
 
 load_dotenv()
